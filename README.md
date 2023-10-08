@@ -1,5 +1,5 @@
 # Atelier Ryza 2 Lost Legends and the Secret Fairy - Playstation buttons patch
-## Supported game version: 1.05
+## Supported game version: 1.06
 
 ---
 
